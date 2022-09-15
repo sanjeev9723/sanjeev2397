@@ -1,12 +1,11 @@
 .container{
-    margin: 0px auto;
+    margin: 70px;
     width: 400px;
     text-align: center;
+    font-size: 25px;
  }
- body {
-    display: block;
-    margin: 10px;
- }
+
+ 
  button {
     font-size: 20px;
     padding: 10px 15px;
